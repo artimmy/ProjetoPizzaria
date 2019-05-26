@@ -1,0 +1,197 @@
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\bin\Debug\PizzariaProjeto.exe.config
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\bin\Debug\PizzariaProjeto.exe
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\bin\Debug\PizzariaProjeto.pdb
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.csprojResolveAssemblyReference.cache
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmLogin.resources
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.Properties.Resources.resources
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.csproj.GenerateResource.Cache
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.exe
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.pdb
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmAjuda.resources
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmBackup.resources
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmCadastro.resources
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmNota.resources
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPedidos.resources
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPesquisa.resources
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPizza.resources
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPrincipal.resources
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmRelatorio.resources
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmProcurarCliente.resources
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmSobre.resources
+C:\Users\tamires.smishida\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\bin\Debug\PizzariaProjeto.exe.config
+C:\Users\tamires.smishida\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.exe
+C:\Users\tamires.smishida\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.pdb
+C:\Users\tamires.smishida\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\bin\Debug\PizzariaProjeto.exe
+C:\Users\tamires.smishida\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\bin\Debug\PizzariaProjeto.pdb
+C:\Users\tamires.smishida\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.csprojResolveAssemblyReference.cache
+C:\Users\tamires.smishida\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmAjuda.resources
+C:\Users\tamires.smishida\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmBackup.resources
+C:\Users\tamires.smishida\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmCadastro.resources
+C:\Users\tamires.smishida\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmLogin.resources
+C:\Users\tamires.smishida\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmNota.resources
+C:\Users\tamires.smishida\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPedidos.resources
+C:\Users\tamires.smishida\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPesquisa.resources
+C:\Users\tamires.smishida\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPizza.resources
+C:\Users\tamires.smishida\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPrincipal.resources
+C:\Users\tamires.smishida\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmProcurarCliente.resources
+C:\Users\tamires.smishida\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmRelatorio.resources
+C:\Users\tamires.smishida\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmSobre.resources
+C:\Users\tamires.smishida\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.Properties.Resources.resources
+C:\Users\tamires.smishida\Desktop\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.csproj.GenerateResource.Cache
+F:\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\bin\Debug\PizzariaProjeto.exe.config
+F:\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\bin\Debug\PizzariaProjeto.exe
+F:\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\bin\Debug\PizzariaProjeto.pdb
+F:\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.csprojResolveAssemblyReference.cache
+F:\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmAjuda.resources
+F:\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmBackup.resources
+F:\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmCadastro.resources
+F:\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmLogin.resources
+F:\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmNota.resources
+F:\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPedidos.resources
+F:\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPesquisa.resources
+F:\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPizza.resources
+F:\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPrincipal.resources
+F:\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmProcurarCliente.resources
+F:\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmRelatorio.resources
+F:\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmSobre.resources
+F:\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.Properties.Resources.resources
+F:\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.csproj.GenerateResource.Cache
+F:\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.exe
+F:\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.pdb
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\NovoProjeto_Tamires_Arthur_Bruno\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\bin\Debug\PizzariaProjeto.exe.config
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\NovoProjeto_Tamires_Arthur_Bruno\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.exe
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\NovoProjeto_Tamires_Arthur_Bruno\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.pdb
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\NovoProjeto_Tamires_Arthur_Bruno\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\bin\Debug\PizzariaProjeto.exe
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\NovoProjeto_Tamires_Arthur_Bruno\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\bin\Debug\PizzariaProjeto.pdb
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\NovoProjeto_Tamires_Arthur_Bruno\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.csprojResolveAssemblyReference.cache
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\NovoProjeto_Tamires_Arthur_Bruno\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmAjuda.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\NovoProjeto_Tamires_Arthur_Bruno\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmBackup.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\NovoProjeto_Tamires_Arthur_Bruno\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmCadastro.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\NovoProjeto_Tamires_Arthur_Bruno\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmLogin.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\NovoProjeto_Tamires_Arthur_Bruno\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmNota.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\NovoProjeto_Tamires_Arthur_Bruno\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPedidos.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\NovoProjeto_Tamires_Arthur_Bruno\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPesquisa.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\NovoProjeto_Tamires_Arthur_Bruno\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPizza.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\NovoProjeto_Tamires_Arthur_Bruno\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPrincipal.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\NovoProjeto_Tamires_Arthur_Bruno\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmProcurarCliente.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\NovoProjeto_Tamires_Arthur_Bruno\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmRelatorio.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\NovoProjeto_Tamires_Arthur_Bruno\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmSobre.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\NovoProjeto_Tamires_Arthur_Bruno\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.Properties.Resources.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\NovoProjeto_Tamires_Arthur_Bruno\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.csproj.GenerateResource.Cache
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\bin\Debug\PizzariaProjeto.exe.config
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.exe
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.pdb
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\bin\Debug\PizzariaProjeto.exe
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\bin\Debug\PizzariaProjeto.pdb
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.csprojResolveAssemblyReference.cache
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmAjuda.resources
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmBackup.resources
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmCadastro.resources
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmLogin.resources
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmNota.resources
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPedidos.resources
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPesquisa.resources
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPizza.resources
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPrincipal.resources
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmProcurarCliente.resources
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmRelatorio.resources
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmSobre.resources
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.Properties.Resources.resources
+C:\Users\Tamires Soares\Desktop\Projeto Pizzaria_EDITANDO\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.csproj.GenerateResource.Cache
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria_EDITANDO - Copia\PizzariaProjeto\PizzariaProjeto\bin\Debug\PizzariaProjeto.exe.config
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria_EDITANDO - Copia\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.exe
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria_EDITANDO - Copia\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.pdb
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria_EDITANDO - Copia\PizzariaProjeto\PizzariaProjeto\bin\Debug\PizzariaProjeto.exe
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria_EDITANDO - Copia\PizzariaProjeto\PizzariaProjeto\bin\Debug\PizzariaProjeto.pdb
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria_EDITANDO - Copia\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.csprojResolveAssemblyReference.cache
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria_EDITANDO - Copia\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmAjuda.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria_EDITANDO - Copia\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmBackup.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria_EDITANDO - Copia\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmCadastro.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria_EDITANDO - Copia\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmLogin.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria_EDITANDO - Copia\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmNota.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria_EDITANDO - Copia\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPedidos.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria_EDITANDO - Copia\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPizza.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria_EDITANDO - Copia\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPrincipal.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria_EDITANDO - Copia\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmSobre.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria_EDITANDO - Copia\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.Properties.Resources.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria_EDITANDO - Copia\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.csproj.GenerateResource.Cache
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria_EDITANDO - Copia\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPesquisarPizza.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria_EDITANDO - Copia\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPesquisaFuncionario.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria_EDITANDO - Copia\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPesquisarCliente.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria_EDITANDO - Copia\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmTroco.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria_EDITANDO - Copia\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmFechamentoCaixa.resources
+F:\PizzariaProjeto\PizzariaProjeto\bin\Debug\PizzariaProjeto.exe.config
+F:\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.exe
+F:\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.pdb
+E:\PizzariaProjeto\PizzariaProjeto\bin\Debug\PizzariaProjeto.exe.config
+E:\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.exe
+E:\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.pdb
+E:\PizzariaProjeto\PizzariaProjeto\bin\Debug\PizzariaProjeto.exe
+E:\PizzariaProjeto\PizzariaProjeto\bin\Debug\PizzariaProjeto.pdb
+E:\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.csprojResolveAssemblyReference.cache
+E:\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmAjuda.resources
+E:\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmBackup.resources
+E:\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmCadastro.resources
+E:\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmLogin.resources
+E:\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmNota.resources
+E:\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPedidos.resources
+E:\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPesquisaFuncionario.resources
+E:\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPesquisarPizza.resources
+E:\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPizza.resources
+E:\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPrincipal.resources
+E:\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPesquisarCliente.resources
+E:\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmFechamentoCaixa.resources
+E:\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmSobre.resources
+E:\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmTroco.resources
+E:\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.Properties.Resources.resources
+E:\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.csproj.GenerateResource.Cache
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\bin\Debug\PizzariaProjeto.exe.config
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.exe
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.pdb
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\bin\Debug\PizzariaProjeto.exe
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\bin\Debug\PizzariaProjeto.pdb
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.csprojResolveAssemblyReference.cache
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmAjuda.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmBackup.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmCadastro.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmLogin.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmNota.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPedidos.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPesquisaFuncionario.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPesquisarPizza.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPizza.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPrincipal.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPesquisarCliente.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmFechamentoCaixa.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmSobre.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmTroco.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.Properties.Resources.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.csproj.GenerateResource.Cache
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.relatorio.resources
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\RdlCompile.cache
+T:\Cursos Tecnicos\TI-BM13\Alunos\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\RdlCompile.compiled
+C:\Users\Tamires\Desktop\exames\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\bin\Debug\PizzariaProjeto.exe.config
+C:\Users\Tamires\Desktop\exames\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.exe
+C:\Users\Tamires\Desktop\exames\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.pdb
+C:\Users\Tamires\Desktop\exames\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\bin\Debug\PizzariaProjeto.exe
+C:\Users\Tamires\Desktop\exames\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\bin\Debug\PizzariaProjeto.pdb
+C:\Users\Tamires\Desktop\exames\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.csprojResolveAssemblyReference.cache
+C:\Users\Tamires\Desktop\exames\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmAjuda.resources
+C:\Users\Tamires\Desktop\exames\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmBackup.resources
+C:\Users\Tamires\Desktop\exames\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmCadastro.resources
+C:\Users\Tamires\Desktop\exames\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmLogin.resources
+C:\Users\Tamires\Desktop\exames\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmNota.resources
+C:\Users\Tamires\Desktop\exames\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPedidos.resources
+C:\Users\Tamires\Desktop\exames\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPesquisaFuncionario.resources
+C:\Users\Tamires\Desktop\exames\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPesquisarPizza.resources
+C:\Users\Tamires\Desktop\exames\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPizza.resources
+C:\Users\Tamires\Desktop\exames\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPrincipal.resources
+C:\Users\Tamires\Desktop\exames\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmPesquisarCliente.resources
+C:\Users\Tamires\Desktop\exames\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmFechamentoCaixa.resources
+C:\Users\Tamires\Desktop\exames\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmSobre.resources
+C:\Users\Tamires\Desktop\exames\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.frmTroco.resources
+C:\Users\Tamires\Desktop\exames\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.Properties.Resources.resources
+C:\Users\Tamires\Desktop\exames\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.relatorio.resources
+C:\Users\Tamires\Desktop\exames\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\PizzariaProjeto.csproj.GenerateResource.Cache
+C:\Users\Tamires\Desktop\exames\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\RdlCompile.cache
+C:\Users\Tamires\Desktop\exames\Tamires\Projeto Pizzaria\PizzariaProjeto\PizzariaProjeto\obj\Debug\RdlCompile.compiled
