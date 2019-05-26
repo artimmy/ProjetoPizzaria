@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6586A8A7-7556-450A-9088-D87C56E936BE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PizzariaProjeto</RootNamespace>
+    <AssemblyName>PizzariaProjeto</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cliente.cs" />
+    <Compile Include="Conexao.cs" />
+    <Compile Include="Finalizar.cs" />
+    <Compile Include="frmAjuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAjuda.Designer.cs">
+      <DependentUpon>frmAjuda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBackup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBackup.Designer.cs">
+      <DependentUpon>frmBackup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadastro.Designer.cs">
+      <DependentUpon>frmCadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNota.Designer.cs">
+      <DependentUpon>frmNota.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPedidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPedidos.Designer.cs">
+      <DependentUpon>frmPedidos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPesquisaFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPesquisaFuncionario.Designer.cs">
+      <DependentUpon>frmPesquisaFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPesquisarPizza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPesquisarPizza.Designer.cs">
+      <DependentUpon>frmPesquisarPizza.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPizza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPizza.Designer.cs">
+      <DependentUpon>frmPizza.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPesquisarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPesquisarCliente.Designer.cs">
+      <DependentUpon>frmPesquisarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFechamentoCaixa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFechamentoCaixa.Designer.cs">
+      <DependentUpon>frmFechamentoCaixa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSobre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSobre.Designer.cs">
+      <DependentUpon>frmSobre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTroco.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTroco.Designer.cs">
+      <DependentUpon>frmTroco.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funcionario.cs" />
+    <Compile Include="Nota.cs" />
+    <Compile Include="Pizza.cs" />
+    <Compile Include="pizzariaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>pizzariaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="relatorio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="relatorio.Designer.cs">
+      <DependentUpon>relatorio.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmAjuda.resx">
+      <DependentUpon>frmAjuda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBackup.resx">
+      <DependentUpon>frmBackup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadastro.resx">
+      <DependentUpon>frmCadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNota.resx">
+      <DependentUpon>frmNota.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPedidos.resx">
+      <DependentUpon>frmPedidos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPesquisaFuncionario.resx">
+      <DependentUpon>frmPesquisaFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPesquisarPizza.resx">
+      <DependentUpon>frmPesquisarPizza.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPizza.resx">
+      <DependentUpon>frmPizza.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPesquisarCliente.resx">
+      <DependentUpon>frmPesquisarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFechamentoCaixa.resx">
+      <DependentUpon>frmFechamentoCaixa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSobre.resx">
+      <DependentUpon>frmSobre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTroco.resx">
+      <DependentUpon>frmTroco.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="relatorio.resx">
+      <DependentUpon>relatorio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="pizzariaDataSet.xsc">
+      <DependentUpon>pizzariaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="pizzariaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>pizzariaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="pizzariaDataSet.xss">
+      <DependentUpon>pizzariaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_pizzaria_01__loggin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7772_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11496_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4215_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_pizzaria_01_x32.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logout_Icon_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download_database_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_male_user_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\l121preto.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pizza_slice_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_pizzaria_01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_pizzaria.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG_LogoPrinc.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
